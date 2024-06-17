@@ -9,6 +9,7 @@ Multi-language Support: Capable of understanding and responding to multiple lang
 Logging: Keeps track of user interactions and sentiment analysis results for further review and improvement.
 
 Prerequisites
+
 Python 3.7 or higher
 
 Setup
