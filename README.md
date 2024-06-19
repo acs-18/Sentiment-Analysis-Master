@@ -9,34 +9,3 @@ Real-time Interaction: Provides real-time responses based on the sentiment of th
 
 Adaptive Responses: Tailors responses to match the sentiment detected, creating a more engaging user experience.
 
-Multi-language Support: Capable of understanding and responding to multiple languages (optional feature).
-
-Logging: Keeps track of user interactions and sentiment analysis results for further review and improvement.
-
-Prerequisites
-
-Python 3.7 or higher
-
-Setup
-
-Clone the repository:
-
-git clone https://github.com/acs-18/sentiment-analysis-chatbot.git
-
-cd sentiment-analysis-chatbot
-
-
-Create and activate a virtual environment 
-
-python3 -m venv venv
-
-
-source venv/bin/activate  
-
-On Windows use `venv\Scripts\activate`
-
-
-Run the chatbot:
-
-
-python chatbot.py
